@@ -1,0 +1,8 @@
+url,doc_id,title,audience,department,category,language,document_version,license_or_permission
+https://lic.ut.edu.vn/quy-dinh-muon-tra-tai-lieu/,quy-dinh-muon-tra-tai-lieu,Quy định mượn - trả tài liệu,student,library,borrowing,vi,not-stated,public-source
+https://lic.ut.edu.vn/noi-quy-thu-vien/,noi-quy-thu-vien,Nội quy Thư viện,all,library,library-rules,vi,2022-11-01,public-source
+https://lic.ut.edu.vn/dich-vu-thu-vien/phuc-vu-muon-tra-tai-lieu/,phuc-vu-muon-tra-tai-lieu,Dịch vụ phục vụ mượn - trả tài liệu,all,library,borrowing,vi,not-stated,public-source
+https://lic.ut.edu.vn/dich-vu-thu-vien/phuc-vu-phong-doc/,phuc-vu-phong-doc,Dịch vụ phục vụ phòng đọc,all,library,reading-room,vi,not-stated,public-source
+https://lic.ut.edu.vn/dich-vu-thu-vien/su-dung-may-tinh-internet/,su-dung-may-tinh-internet,Dịch vụ sử dụng máy tính,all,library,computer-room,vi,not-stated,public-source
+https://lic.ut.edu.vn/dich-vu-cong-nghe-thong-tin/dich-vu-quet-trung-lap/,dich-vu-quet-trung-lap,Dịch vụ quét trùng lặp,all,library,plagiarism-check,vi,not-stated,public-source
+https://lic.ut.edu.vn/dich-vu-thu-vien/ho-tro-nhanh/,ho-tro-nhanh,Hỗ trợ nhanh - Liên hệ,all,library,contact,vi,not-stated,public-source
